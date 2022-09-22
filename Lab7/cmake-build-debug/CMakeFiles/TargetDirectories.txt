@@ -1,0 +1,3 @@
+/Users/gregoryknapp/CLionProjects/MainLab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gregoryknapp/CLionProjects/MainLab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gregoryknapp/CLionProjects/MainLab7/cmake-build-debug/CMakeFiles/MainLab7.dir

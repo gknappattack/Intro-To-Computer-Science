@@ -4,7 +4,7 @@ Coursework and projects for BYU CS 142 Intro to Computer Science (now known as C
 
 ## Course Outcomes: 
 
--Write programs whose complexity reaches a few hundred lines
+- Write programs whose complexity reaches a few hundred lines
 
 - Use the rudiments of the environment and the resources available to help them program (editors, basic computer architecture, compilers, libraries, reference manuals, on-line help).
 
